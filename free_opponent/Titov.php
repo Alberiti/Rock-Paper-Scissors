@@ -8,7 +8,7 @@ $gana = [
     3 => 1, // Бумага побеждает камень
 ];
 
-function You($o) {
+function Titov($o) {
     global $jugadas;
     global $patrones;
     global $gana;
